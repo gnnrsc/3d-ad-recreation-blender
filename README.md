@@ -12,7 +12,7 @@ The goal of this project was to faithfully recreate the animation, lighting, tim
 
 ---
 
-## ✨ My Contribution (Giovanna Rosace)
+## ✨ My Contribution
 As this was a group project, I took on the role of a **3D Generalist**. I was responsible for setting up complex animation sequences, creating the main characters from scratch (modeling and rigging), and handling the set dressing of the scene. Specifically:
 
 ### 1. Character & Interaction Animation (Opening & "Idea" Scenes)
