@@ -1,6 +1,6 @@
 # 🎬 3D Ad Recreation - Blender Project
 
-Welcome to the repository for the final project of the **Computer Animation (01NPZYG)** course at **Politecnico di Torino** (A.Y. 2023/2024).
+Repository for the final project of the **Computer Animation (01NPZYG)** course at **Politecnico di Torino** (A.Y. 2023/2024).
 
 The goal of this project was to faithfully recreate the animation, lighting, timing, and composition of an existing YouTube commercial, entirely within **Blender**.
 
